@@ -7,7 +7,7 @@ ICRC-2 is an extension of the base ICRC-1 standard. ICRC-2 specifies a way for a
 
 ## Reference
 
-https://github.com/dfinity/ICRC-1
+https://github.com/dfinity/ICRC-2
 
 ## Description
 

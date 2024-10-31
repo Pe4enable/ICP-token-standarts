@@ -4,6 +4,7 @@
 
 ICRC-7 is the minimal standard for the implementation of Non-Fungible Tokens (NFTs) on the Internet Computer.
 ICRC-37 is an extension of the base ICRC-7 standard. 
+DIP721 is unofficial byt widely supported NFT standart on the Internet Computer.
 
 ## Reference
 
